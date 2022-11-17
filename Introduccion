@@ -1,0 +1,12 @@
+Este repositorio esta pensado para mostrar como:
+
+- Numpy y pandas simplifican, analizan y manipulan la información.
+- Matplotlib provee una forma atractiva de visualizar la información.
+- Scikit-learn ofrece una simple y effectiva predicción de analisis de datos.
+- TensorFlow y PyTorch proveen capacidades de machine learning y deep learning.
+
+El análisis de datos esta diseñado para encontrar soluciones alrededor de un caso en particular o probar una hipótesis.
+Ej. Un profesor reune información de sus estudiantes como el numero de asistencias, las horas que estudiaron y la calificación 
+que obtuvieron en el examen final. El profesor podria análizar la información para determinar si hay una relación entre la cantidad 
+de horas de estudio y la nota final. El profesor podria usar la información para probar una hipótesis donde solamente los estudiantes
+que estudiaron un minimo de horas pueden esperar obtener una nota aprovatoria.
