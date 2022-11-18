@@ -1,0 +1,7 @@
+NumPy y Pandas son herramientas para explorar visualizar y manipular datos.
+
+NymPy es una libreria que da funionalidad comparable a MATLAB y R. Mientras NumPy simplifica
+la experiencia al usuario tambien ofrece funciones matematicas completas.
+
+Pandas es una de las librerias mas populares para el análisis y manipulacion de datos. Es como
+una versión de excel para python que provee una funcionalidad de uso fácil para tablas de datos.
