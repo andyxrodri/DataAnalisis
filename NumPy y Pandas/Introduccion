@@ -6,7 +6,8 @@ la experiencia al usuario tambien ofrece funciones matematicas completas.
 Pandas es una de las librerias mas populares para el análisis y manipulacion de datos. Es como
 una versión de excel para python que provee una funcionalidad de uso fácil para tablas de datos.
 
-Jupyter notebook es una forma popular de correr scripts basicos en el navegador.
+Jupyter notebook es una forma popular de correr scripts basicos en el navegador, trabaja como una simple
+pagina web.
 
 Prueba de Hipotesis.
 La exploracion y análisis de datos suele ser un proceso iterativo, donde se siguen ciertos pasos.
